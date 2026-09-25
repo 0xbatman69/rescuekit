@@ -1,0 +1,32 @@
+# RescueKit Dual License 1.0
+
+Copyright (c) 2026 RescueKit. All rights reserved.
+
+This repository contains source code published for security audit, peer review, and verification purposes. By accessing or using this repository, you agree to the following terms:
+
+---
+
+### 1. Smart Contracts (`contracts/`)
+**Source-Available (All Rights Reserved)**
+
+The smart contract source code is published solely for security audit, peer review, and on-chain bytecode verification. 
+
+Permission is hereby granted to any person to inspect the code, clone the repository locally, and review the smart contracts solely for the purposes of non-commercial analysis, security verification, and submitting vulnerability reports or pull requests to the official RescueKit repository.
+
+Commercial use, unauthorized deployment to any public or private blockchain, external distribution, sublicensing, or commercial exploitation of the smart contracts without prior written consent remains strictly prohibited.
+
+---
+
+### 2. Companion Browser Extension (`extension/`)
+**Permissive Research & Local Personal Use**
+
+Permission is hereby granted to any person to inspect, clone, build, modify, and run the companion browser extension source code locally for personal, security research, or development purposes, provided that this copyright notice is retained in all copies or substantial portions of the extension.
+
+Public distribution, publishing to browser extension marketplaces (including the Chrome Web Store, Firefox Add-ons, and Edge Add-ons), or commercial re-licensing remains strictly reserved by RescueKit.
+
+---
+
+### 3. Disclaimer of Warranty & Limitation of Liability
+THE SOFTWARE AND SMART CONTRACTS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+
+IN NO EVENT SHALL THE AUTHORS, DEVELOPERS, OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE, SMART CONTRACTS, ON-CHAIN TRANSACTIONS, OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
