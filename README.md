@@ -14,6 +14,8 @@ This repository contains the public source code for:
 
 The companion browser extension extracts transaction calldata from third-party dApps when your compromised wallet has zero gas.
 
+> **Note:** The extension is currently pending confirmation by Google on the Chrome Web Store and is not live yet.
+
 ### 1.1 The Problem It Solves
 
 When a compromised wallet is drained by sweeper bots, its native balance is zero. Most dApps (such as airdrop portals and NFT mints) check your wallet balance before enabling interaction buttons. When they detect 0 native coin, they lock the "Claim" or "Mint" button with "Insufficient balance for gas".
